@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["runner",""]],"struct":[["Cargo","`cargo` command."],["Linker","`ptx-linker` command."],["Xargo","`xargo` command."]],"trait":[["Executable","Details and requirements for executables."]]});
