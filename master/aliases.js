@@ -9,6 +9,7 @@ ALIASES['lazy_static'] = {};
 ALIASES['libc'] = {};
 ALIASES['memchr'] = {};
 ALIASES['ptx_builder'] = {};
+ALIASES['ptx_builder'] = {};
 ALIASES['regex'] = {};
 ALIASES['regex_syntax'] = {};
 ALIASES['rustc_demangle'] = {};
